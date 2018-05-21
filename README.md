@@ -2,8 +2,6 @@
 
 [Skillsfuture url](https://eservices.nyp.edu.sg/alls/course/cseDetails.jsp?id=8983)
 
-[Google Docs](https://docs.google.com/document/d/1dsgV8Sa5DyA0X3rzafAfPA4paglqR6X4VLRrE6CMHlQ/edit)
-
 ## SkillsFuture Course Description:
 
 About the Course: This course aims to provide participants with an introduction to machine learning and data science. Examples of how it is applied to the world of finance will also be shared and discussed.
@@ -21,14 +19,4 @@ Interested to discover how Artificial Intelligence can be applied to the field o
 * Always wonder how to perform your own systematic Algorithmic trading and portfolio construction?
 
 * Join us for this hands-on practical #Python course on Machine Learning for Finance!
-
-# Course Structure
-
-![img](img/course.png)
-
-
-
-
-
-
 
